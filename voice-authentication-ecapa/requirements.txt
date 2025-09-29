@@ -1,1 +1,11 @@
+torch==2.4.1
+torchaudio
+speechbrain==0.5.16
+soundfile
+numpy
+scikit-learn
+joblib
+vosk
+webrtcvad-wheels
+huggingface_hub
 
