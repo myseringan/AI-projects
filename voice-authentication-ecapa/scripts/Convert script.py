@@ -3,8 +3,8 @@ from pathlib import Path
 import sys
 
 # ==== НАСТРОЙКИ ====
-SRC_DIR = Path("Low versions voice/Voice Dadam/voice_messages")   # исходные файлы
-DST_DIR = Path("Data/Dadam")    # папка для готовых WAV
+SRC_DIR = Path("")   # исходные файлы
+DST_DIR = Path("")    # папка для готовых WAV
 PREFIX = "D"                        # префикс имени
 START = 1                           # с какого номера начинать
 RATE = 16000                        # частота дискретизации
@@ -65,3 +65,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
