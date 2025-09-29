@@ -1,1 +1,12 @@
+*.pt
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.tmp
+__pycache__/
+*.pkl
+*.joblib
+*.json
+models/ecapa_local/
 
