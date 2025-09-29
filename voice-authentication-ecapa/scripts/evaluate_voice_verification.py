@@ -40,8 +40,8 @@ from huggingface_hub import snapshot_download
 from speechbrain.pretrained import SpeakerRecognition
 
 # ================= НАСТРОЙКИ =================
-TIMA_DIR  = Path("Data/Tima")      # папка с WAV Тимы
-ULUG_DIR  = Path("Data/Dadam")      # папка с WAV Улуга
+TIMA_DIR  = Path("")      # папка с WAV Тимы
+ULUG_DIR  = Path("")      # папка с WAV Улуга
 
 USE_FIRST_N_TIMA_FOR_ENROLL = 10        # сколько файлов Тимы на "enroll"
 MIN_SEC = 2.0                           # минимальная длительность после чистки (сек)
@@ -232,3 +232,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
