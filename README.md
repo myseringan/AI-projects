@@ -52,4 +52,12 @@ U **oldindan o‘qitilgan chuqur o‘rganish modellari (ECAPA-TDNN, SpeechBrain)
 
 ---
 
-👤 **Author:** Temur Eshmurodov  
+## 👨‍💻 Автор
+**Temur Eshmurodov**
+- Email: temureshmurodov2006@gmail.com  
+- Telegram: [@my_seringan]  
+
+---
+
+## 📖 License
+MIT
