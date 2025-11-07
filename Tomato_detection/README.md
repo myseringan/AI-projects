@@ -74,5 +74,5 @@ python detect_tomato.py
 
 ---
 
-📎 **Author:** [myseringan](https://github.com/myseringan)  
+📎 **Author:** Temur Eshmurodov
 📦 **Model Link:** [Hugging Face Model](https://huggingface.co/myseringan1/tomato-detection-model)
